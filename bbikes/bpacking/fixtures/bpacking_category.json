@@ -1,1 +1,0 @@
-[{"model": "bpacking.category", "pk": 1, "fields": {"name": "Велосипеды", "slug": "velosipedy"}}, {"model": "bpacking.category", "pk": 2, "fields": {"name": "Околовелосипед", "slug": "okolovelosiped"}}]
